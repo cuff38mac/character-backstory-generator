@@ -1,0 +1,8 @@
+{
+  "error": {
+    "message": "Invalid URL (POST /v1/models/downloads/generations)",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
