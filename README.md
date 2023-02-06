@@ -1,2 +1,2 @@
 # character-backstory-generator
-React app that allows user to select a different RPG charaacter class and click Generate Backstory to display a bakstory
+A React.js and Java app that allows a user to select a different RPG class and generate a random backstory. 
